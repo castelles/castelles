@@ -2,10 +2,10 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" link/> 
 Most of the time, I'm an android developer, but i'm used to work with some other tecnologies of mobile development.
 Currently working with android jetpack new tecnologies and ahead of the development of the new architecture of android projects at the institute of which i am a part.
-  - MVVM and MVC \n
-  - Coroutines \n
-  - Rx \n
-  - ViewModel \n
+  - MVVM and MVC <br>
+  - Coroutines
+  - Rx
+  - ViewModel
   - Room \n
   - Navigation \n 
   - Databinding \n
