@@ -1,12 +1,15 @@
 ### Hi there 👋, I am Caio, but you probably already know this.
-Most of the time, I'm an android developer. <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" link/> 
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" link/> 
+Most of the time, I'm an android developer.
 
 ------------
+
 ## Mastering
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" link/> 
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" link/> 
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" link/> 
 ------------
+
 ## Want to know more about
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" link/> 
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" link/> 
@@ -14,6 +17,7 @@ Most of the time, I'm an android developer. <img src="https://img.shields.io/bad
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" link/> 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" link/> 
 ------------
+
 ## Contact me in others social networks
 
 <a href="csalestelles@gmail.com"> 
