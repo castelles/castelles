@@ -1,22 +1,22 @@
 ### Hi there 👋, I am Caio, but you probably already know this.
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" link/> 
 Most of the time, I'm an android developer, but i'm used to work with some other tecnologies of mobile development.
-Currently working with android jetpack new tecnologies and ahead of the development of the new architecture of android projects at the institute of which i am a part.
+Currently working with android jetpack new tecnologies and ahead of the development of the new architecture of android projects at the institute of which i am a part. <br>
   - MVVM and MVC <br>
-  - Coroutines
-  - Rx
-  - ViewModel
-  - Room \n
-  - Navigation \n 
-  - Databinding \n
-  - Unit tests \n
-  - Material design \n
-  - Modules \n
-  - Lifecycle \n
-  - Retrofit / Volley \n
-  - Permissions \n
-  - Koin \n
-  - Dominate of both Java and Kotlin \n
+  - Coroutines <br>
+  - Rx <br>
+  - ViewModel <br>
+  - Room <br>
+  - Navigation <br> 
+  - Databinding <br>
+  - Unit tests <br>
+  - Material design <br>
+  - Modules <br>
+  - Lifecycle <br>
+  - Retrofit / Volley <br>
+  - Permissions <br>
+  - Koin <br>
+  - Dominate of both Java and Kotlin <br>
 
 
 ## Mastering
