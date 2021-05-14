@@ -18,6 +18,11 @@ Currently working with android jetpack new tecnologies and ahead of the developm
   - Koin <br>
   - Dominate of both Java and Kotlin <br>
 
+<p> 
+  <img align="center" width=420px src="https://github-readme-stats.vercel.app/api?username=castelles&show_icons=true&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castelles&show_icons=true&layout=compact&theme=radical" />
+</p>
+
 
 ## Mastering
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> 
