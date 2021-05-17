@@ -18,7 +18,7 @@ Currently working with android jetpack new tecnologies and ahead of the developm
   - Retrofit / Volley <br>
   - Permissions <br>
   - Koin <br>
-  - Dominate of both Java and Kotlin <br>
+  - Dominate both Java and Kotlin <br>
 
 <p> 
   <img align="center" width=420px src="https://github-readme-stats.vercel.app/api?username=castelles&show_icons=true&layout=compact&theme=radical" />
