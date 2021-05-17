@@ -1,4 +1,6 @@
 ### Hi there 👋, I am Caio, but you probably already know this.
+#### Computer Engineer student from the Federal University of Amazonas :computer:
+
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" link/> 
 Most of the time, I'm an android developer, but i'm used to work with some other tecnologies of mobile development.
 Currently working with android jetpack new tecnologies and ahead of the development of the new architecture of android projects at the institute of which i am a part. <br>
