@@ -39,7 +39,8 @@ Currently working with android jetpack new tecnologies and ahead of the developm
 ## Contact me in others social networks
 <a> 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a> csalestelles@gmail.com
+csalestelles@gmail.com
+</a>
 
 <a href="https://linkedin.com/in/caioatelles"> 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
