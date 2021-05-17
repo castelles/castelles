@@ -37,10 +37,8 @@ Currently working with android jetpack new tecnologies and ahead of the developm
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> 
 
 ## Contact me in others social networks
-<a> 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-csalestelles@gmail.com
-</a>
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> csalestelles@gmail.com
 
 <a href="https://linkedin.com/in/caioatelles"> 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
