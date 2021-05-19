@@ -27,6 +27,7 @@ Currently working with android jetpack new tecnologies and ahead of the developm
   <img align="center" width=420px src="https://github-readme-stats.vercel.app/api?username=castelles&show_icons=true&layout=compact&theme=radical" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castelles&show_icons=true&layout=compact&theme=radical" />
 </p>
+Stats from github-readme-stats repo
 
 
 ## Mastering
