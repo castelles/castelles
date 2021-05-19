@@ -1,6 +1,7 @@
 ### Hi there 👋, I am Caio, but you probably already know this.
 #### Computer Engineer student from the Federal University of Amazonas :computer:
 #### Mobile Developer Jr at Instituto Transire 🥬
+#### I'm also part of <a href="https://bughackers.org/">Bughackers Hackerspace</a>, the first hackerspace of Brazil's Northern region 🕵️
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" link/> <br>
 
