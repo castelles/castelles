@@ -3,7 +3,7 @@
 #### Mobile Developer Jr at Instituto Transire 🥬
 #### I'm also part of <a href="http://bughackers.org/">Bughackers Hackerspace</a>, the first hackerspace of Brazil's Northern region 🕵️
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" link/> <br>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <br>
 
 Most of the time, I'm an android developer, but i'm used to work with some other tecnologies of mobile development.
 Currently working with android jetpack new tecnologies and ahead of the development of the new architecture of android projects at the institute of which i am a part. <br>
@@ -49,9 +49,6 @@ Stats from github-readme-stats repo
 </a>
 <a href="https://linkedin.com/in/caioatelles"> 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a> 
-<a href="https://linkedin.com/in/caioatelles">
-<img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" />
 </a> 
 
 <!--
