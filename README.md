@@ -25,8 +25,8 @@ Currently working with android jetpack new tecnologies and ahead of the developm
   - Dominate both Java and Kotlin <br>
 
 <p> 
-  <img align="center" width=420px src="https://github-readme-stats.vercel.app/api?username=castelles&show_icons=true&layout=compact&theme=radical" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castelles&show_icons=true&layout=compact&theme=radical" />
+  <img align="center" width=420px src="https://github-readme-stats.vercel.app/api?username=castelles&show_icons=true&layout=compact&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castelles&show_icons=true&layout=compact&theme=dracula" />
 </p>
 Stats from github-readme-stats repo
 
