@@ -17,7 +17,7 @@ Currently working with android jetpack new tecnologies and ahead of the developm
   - Databinding <br>
   - Unit tests <br>
   - Material design <br>
-  - Modules <br>
+  - Modular applications <br>
   - Lifecycle <br>
   - Retrofit / Volley <br>
   - Permissions <br>
