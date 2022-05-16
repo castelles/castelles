@@ -7,6 +7,8 @@
 
 Most of the time, I'm an android developer, but i'm used to work with some other tecnologies of mobile development.
 Currently working with android jetpack new tecnologies and ahead of the development of the new architecture of android projects at the institute of which i am a part. <br>
+![Android dev](https://www.icodesolution.com/resource/images/mobile-app-development.gif)
+
 ### I know some things about
   - MVVM and MVC <br>
   - Coroutines <br>
@@ -29,8 +31,6 @@ Currently working with android jetpack new tecnologies and ahead of the developm
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castelles&show_icons=true&layout=compact&theme=dracula" />
 </p>
 Stats from github-readme-stats repo
-
-![Android dev](https://www.icodesolution.com/resource/images/mobile-app-development.gif)
 
 ## Mastering
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> 
