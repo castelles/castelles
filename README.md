@@ -30,6 +30,7 @@ Currently working with android jetpack new tecnologies and ahead of the developm
 </p>
 Stats from github-readme-stats repo
 
+![Android dev](https://www.icodesolution.com/resource/images/mobile-app-development.gif)
 
 ## Mastering
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> 
