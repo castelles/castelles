@@ -7,9 +7,8 @@
 
 Most of the time, I'm an android developer, but i'm used to work with some other tecnologies of mobile development.
 Currently working with android jetpack new tecnologies and ahead of the development of the new architecture of android projects at the institute of which i am a part. <br>
-<div align="center">
-  ![Android dev](https://www.icodesolution.com/resource/images/mobile-app-development.gif)
-</div>
+
+![Android dev](https://www.icodesolution.com/resource/images/mobile-app-development.gif)
 
 ### I know some things about
   - MVVM and MVC <br>
