@@ -1,6 +1,6 @@
-### Hi there 👋, I am Caio, but you probably already know this.
+### Hi there 👋, I am Caio, but if you are here, probably already know this.
 #### Computer Engineer student from the Federal University of Amazonas :computer:
-#### Development Analyst Jr at Iteris Consultoria e Software 🥬
+#### Mobile Engineer at Iteris Consultoria e Software 🥬
 #### I'm also part of <a href="http://bughackers.org/">Bughackers Hackerspace</a>, the first hackerspace of Brazil's Northern region 🕵️
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <br>
@@ -13,12 +13,13 @@ Currently working with android jetpack new tecnologies and ahead of the developm
 ### I know some things about
   - MVVM and MVC <br>
   - Coroutines <br>
+  - Flows <br>
   - Rx <br>
   - ViewModel <br>
   - Room <br>
   - Navigation <br> 
   - Databinding <br>
-  - Unit tests <br>
+  - Unit tests with Mockito<br>
   - Material design <br>
   - Modular applications <br>
   - Lifecycle <br>
